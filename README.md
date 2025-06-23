@@ -35,8 +35,11 @@ To analyze and predict crop yield across Indian states and districts using machi
 ### ✅ Distribution of Crop Yield
 ![](plots/yield_distribution.png)
 
-### ✅ Yield Trends Over Time (Rice, Bihar)
-![](plots/yield_trend_bihar_rice.png)
+### ✅ Yield Trends in Bihar Over Time 
+![](plots/yield_trend_bihar_all_crops.png)
+
+### ✅ Yield Trends of Rice Over Time 
+![](plots/yield_trend_major_rice.png)
 
 ---
 
